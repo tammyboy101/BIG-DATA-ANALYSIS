@@ -28,3 +28,6 @@ Apart from numerical analysis, valuable insights were extracted through data vis
 Data visualization is an essential aspect of big data analysis, particularly in the e-commerce sector, where large datasets can be overwhelming to interpret in raw form. By transforming complex numerical data into intuitive visual representations, businesses can quickly identify trends, outliers, and correlations that might not be evident through traditional statistical analysis. For emerging e-commerce companies, visualization tools provide a clear roadmap for decision-making, helping them strategize product placements, pricing models, and customer engagement initiatives.
 
 Ultimately, leveraging big data analytics and visualization allows businesses to make informed, data-driven decisions, optimize their operations, and stay competitive in the fast-evolving e-commerce landscape. By continuously analyzing and visualizing key metrics, companies can enhance user experiences, streamline inventory management, and drive growth in an increasingly digital marketplace.
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/fccf0ab1-d4a6-465c-963b-f3c3572c1871)
