@@ -31,3 +31,10 @@ Ultimately, leveraging big data analytics and visualization allows businesses to
 
 ## OUTPUT
 ![Image](https://github.com/user-attachments/assets/fccf0ab1-d4a6-465c-963b-f3c3572c1871)
+
+![Image](https://github.com/user-attachments/assets/d659896b-a76a-4bab-b7b7-0eb145a90527)
+
+![Image](https://github.com/user-attachments/assets/2032aa59-9416-4392-878e-4988336ea1a4)
+
+![Image](https://github.com/user-attachments/assets/60bfdb9a-5635-4c9f-813e-c265e04a1186)
+
